@@ -33,4 +33,11 @@
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/khubaibnasif/)https://www.linkedin.com/in/khubaibnasif/)
 </p>
 
+<p>
+  :fire: My Stats :
+  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+</p>
+
 </div>
