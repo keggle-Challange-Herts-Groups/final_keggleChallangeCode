@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWV6cjdjYTQwdWF2dTJ1OTBnbDJvM3EyOWRidmY5NTdhM245cGMxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width="300" height="150"/>
 </div>
 <p>
-  ### :woman_technologist: About Me :
+  ### 👨‍💼: About Me :
   I am a Power BI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London.
   - 💻: I’m working as a Power BI and creating dashboard.
 
