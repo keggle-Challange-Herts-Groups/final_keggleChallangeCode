@@ -39,11 +39,6 @@
   <h3 align="center">Github Readme Streak Stats</h3>
 </p>
 
-<p align="center">
-  Display your total contributions, current streak,
-  <br/>
-  and longest streak on your GitHub profile README
-</p>
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
@@ -53,7 +48,4 @@
 </p>
 
 
-
-<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-  </p>
 </div>
