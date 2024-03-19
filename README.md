@@ -87,7 +87,7 @@ If the `theme` parameter is specified, any color customizations specified will b
 
 |         Parameter          |                     Details                      |                                              Example                                               |
 | :------------------------: | :----------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-|           `user`           |        GitHub username to show stats for         |                                           `DenverCoder1`                                           |
+|           `user`           |        GitHub username to show stats for         |                                           `Khubaib Herts`                                           |
 |          `theme`           |     The theme to apply (Default: `default`)      |                          `dark`, `radical`, etc. [🎨➜](./docs/themes.md)                           |
 |       `hide_border`        |  Make the border transparent (Default: `false`)  |                                         `true` or `false`                                          |
 |      `border_radius`       | Set the roundness of the edges (Default: `4.5`)  |                           Number `0` (sharp corners) to `248` (ellipse)                            |
