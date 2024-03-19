@@ -21,4 +21,8 @@
 </h1>
 <iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p>
 
+<div align="center">
+  <img src="https://giphy.com/embed/IpeYSEZshTefe" width="600" height="300"/>
+</div>
+
 </div>
