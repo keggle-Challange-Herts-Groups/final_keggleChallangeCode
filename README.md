@@ -26,13 +26,11 @@
 <p>
   ### 👨‍💼: About Me : <br/>
   I am a Power BI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London.
-  - 💻: I’m working as a Power BI and creating dashboard.
+  💻: I’m working as a Power BI and creating dashboard.
+  💼: Exploring Business Case Studies.
+  🖥️: In my free time, I solve problems on GeeksforGeeks and read tech n business case studies .
 
-- 💼: Exploring Business Case Studies.
-
-- 🖥️: In my free time, I solve problems on GeeksforGeeks and read tech n business case studies .
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/khubaibnasif/)https://www.linkedin.com/in/khubaibnasif/)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/khubaibnasif/)https://www.linkedin.com/in/khubaibnasif/)
 </p>
 
 </div>
